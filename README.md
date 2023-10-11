@@ -1,5 +1,18 @@
 # bouncing-pacman
 
-1. Create an HTML file with a canvas element on which the pacman image will be inserted.
-2. Use JavaScript to work on with the pacman on the canvas.
-3. Use JavaScript to move the pacman randomly across the canvas, bouncing it off the edges when it reaches them.
+Description:
+
+The HTML document creates a basic Pac-Man game with randomly generated Pac-Man characters that bounce off the container's boundaries and change mouth states while moving.
+
+How to run the code:
+
+step1:Save the HTML file with .html extension.
+
+step2:Click the "Go Live" button.A new browser window will open, displaying pacman-game.
+
+Future Enhancements:
+
+1)Add scoring and obstacles for increased complexity.
+
+2)Incorporate user controls for interactive gameplay.
+
